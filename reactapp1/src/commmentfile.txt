@@ -1,0 +1,17 @@
+// domain name 
+html - tag 
+function in web uses js
+dynamic web without HTML design is created by DOM
+API - appliication programming interface
+wersion of web that using is 2.0 wikipedia is 1.0 and web likes chatgpt that was 3.0
+storage is repostary
+local - hard disk , colud,remote - sever
+git three basics -- commit saves , branch (default - main master), merge (combine changes from multiple changes)
+git opens login 
+
+git init -- initize
+git add filename(README.md ), git add .(add all files)
+git commit -m "first commit" , -m(message)
+git branch -M main , -M (creates a folder) 
+git remote add origin https://github.com/gopalakrishnan007/project.git
+git push -u origin main (IMPORTNANT  to add the file) , -u (update), push (local to remote)
